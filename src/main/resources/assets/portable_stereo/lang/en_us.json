@@ -1,0 +1,12 @@
+{
+  "item.portable_stereo.portable_stereo": "Portable Stereo",
+  "message.portable_stereo.now_playing": "Now playing: %s",
+  "message.portable_stereo.stopped": "Stereo stopped",
+  "message.portable_stereo.ejected": "Disc ejected",
+  "message.portable_stereo.no_disc": "Hold a music disc in your other hand to load it",
+  "tooltip.portable_stereo.empty": "No disc loaded",
+  "tooltip.portable_stereo.loaded": "Loaded: %s",
+  "tooltip.portable_stereo.playing": "♪ Playing: %s",
+  "tooltip.portable_stereo.hint_load": "Right-click with a disc in your other hand",
+  "tooltip.portable_stereo.hint_eject": "Sneak + right-click to eject"
+}
